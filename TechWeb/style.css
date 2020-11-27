@@ -1,0 +1,38 @@
+section {
+    padding-bottom: 60px;
+    padding-top: 25px;
+    display: block;
+    background-color: rgb(221, 221, 221);
+    margin: 75px;
+    margin-top: 175px;
+    text-align: center;
+}
+header {
+    color: whitesmoke;
+    font-family: "Raleway", Sans-serif;
+}
+footer{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.52);
+    color: whitesmoke;
+    font-family: "Raleway", Sans-serif;
+    padding: 10px;
+}
+h2 {
+    background-color: rgba(0, 0, 0, 0.52);
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    padding: 25px 40px;
+    font-family: "Raleway", Sans-serif;
+    font-size: 30px;
+}
+h1 {
+    font-family: "Raleway", Sans-serif;
+    font-size: 30px;
+}
+img {
+    border-radius: 1000px;
+    border-color: white;
+    width: 250px;
+}
